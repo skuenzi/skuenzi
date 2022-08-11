@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Header](https://github.com/skuenzi/skuenzi/blob/main/Screen%20Shot%202022-08-11%20at%203.39.27%20PM.png?raw=true "Header")](https://skuenzi.github.io)
+
 
 <!--
 **skuenzi/skuenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
