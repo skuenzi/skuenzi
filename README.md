@@ -1,5 +1,6 @@
 [![Header](https://github.com/skuenzi/skuenzi/blob/main/pink-mountain-banner.png?raw=true "Header")](https://skuenzi.github.io)
 
+😄 Pronouns: She/Her
 
 ![](https://img.shields.io/static/v1?label=Code&message=Javascript&color=df6d74&?style=plastic&logo=javascript)
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=df6d74&?style=plastic&logo=react)
@@ -9,7 +10,7 @@
 ![](https://img.shields.io/static/v1?label=Learning&message=Redux&color=df6d74&?style=plastic&logo=Redux)
 ![](https://img.shields.io/static/v1?label=With&message=Scrimba&color=df6d74&?style=plastic&logo=scrimba)
 ![](https://img.shields.io/static/v1?label=With&message=FreeCodeCamp&color=df6d74&?style=plastic&logo=freecodecamp)
-![](https://img.shields.io/static/v1?label=With&message=Promineo&color=df6d74&?style=plastic&logo=javascript)
+![](https://img.shields.io/static/v1?label=With&message=PromineoTech&color=df6d74&?style=plastic)
 
 
 
