@@ -1,6 +1,8 @@
 [![Header](https://github.com/skuenzi/skuenzi/blob/main/pink-mountain-banner.png?raw=true "Header")](https://skuenzi.github.io)
 
-😄 Pronouns: She/Her
+ 💁‍♀️  Pronouns: She/Her
+
+
 
 ![](https://img.shields.io/static/v1?label=Code&message=Javascript&color=df6d74&?style=plastic&logo=javascript)
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=df6d74&?style=plastic&logo=react)
@@ -16,9 +18,11 @@
 
 
 
-
+# 📈 Github Stats
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=skuenzi&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skuenzi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=project-timer&theme=onedark)](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=project-timer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=retail-app&theme=onedark)](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=retail-app)
 
 <!--
 **skuenzi/skuenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
