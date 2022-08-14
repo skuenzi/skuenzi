@@ -1,4 +1,4 @@
-[![Header](https://github.com/skuenzi/skuenzi/blob/main/Screen%20Shot%202022-08-11%20at%203.39.27%20PM.png?raw=true "Header")](https://skuenzi.github.io)
+[![Header](https://github.com/skuenzi/skuenzi/blob/main/pink-mountain-banner.png?raw=true "Header")](https://skuenzi.github.io)
 
 
 <!--
