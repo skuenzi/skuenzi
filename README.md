@@ -29,7 +29,7 @@ An app to keep track of how long each project is taking! User will be able to ad
 ![](https://img.shields.io/static/v1?label=Code&message=HTML5&color=df6d74&?style=plastic&logo=html5)
 ![](https://img.shields.io/static/v1?label=Code&message=CSS3&color=df6d74&?style=plastic&logo=css3)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=project-timer&theme=onedark)](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=project-timer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=project-timer&theme=onedark)](https://github.com/skuenzi/project-timer)
 
 The portfolio staple - the retail website. I'm using the Real-store API from RapidApi to grab Amazon products. Next steps are to implement a blog section and create a faux payment system.
 
@@ -38,7 +38,7 @@ The portfolio staple - the retail website. I'm using the Real-store API from Rap
 ![](https://img.shields.io/static/v1?label=Code&message=CSS3&color=df6d74&?style=plastic&logo=css3)
 ![](https://img.shields.io/static/v1?label=Code&message=Styled-Components&color=df6d74&?style=plastic&logo=styledcomponents)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=retail-app&theme=onedark)](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=retail-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=retail-app&theme=onedark)](https://github.com/skuenzi/retail-app)
 
 # 📈 Github Stats
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=skuenzi&show_icons=true&theme=onedark)
