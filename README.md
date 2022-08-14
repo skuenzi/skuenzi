@@ -1,7 +1,10 @@
 [![Header](https://github.com/skuenzi/skuenzi/blob/main/pink-mountain-banner.png?raw=true "Header")](https://skuenzi.github.io)
 
 
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=skuenzi&show_icons=true&theme=dracula)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=skuenzi&show_icons=true&theme=highcontrast)
+[![Sara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skuenzi&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skuenzi&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **skuenzi/skuenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
