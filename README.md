@@ -1,7 +1,8 @@
 [![Header](https://github.com/skuenzi/skuenzi/blob/main/pink-mountain-banner.png?raw=true "Header")](https://skuenzi.github.io)
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/static/v1?label=<LABEL>&message=JavaScript&color=orange?style=plastic&logo=javascript)
+
 
 
 
